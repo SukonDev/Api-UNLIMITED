@@ -1,1 +1,11 @@
-
+[
+	{
+		"ip": "191.96.93.166",
+		"port": 7777,
+		"id": 1,
+		"color":"ff2624", 
+		"action": 1,
+		"key":"",
+		"name":"UNLIMITED RP"
+	}
+]
