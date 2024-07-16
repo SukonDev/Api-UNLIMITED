@@ -1,8 +1,8 @@
 {
     "clientVersionCode": 6,
     "gameFilesVersionCode": 1,
-    "URL_GAME_FILES" : "https://191.96.93.166/game.zip",
-    "URL_GAME_FILES_UPD" : "http://191.96.93.166/files_upd.zip",
+    "URL_GAME_FILES" : "https://191.96.93.166/Api/game.zip",
+    "URL_GAME_FILES_UPD" : "http://191.96.93.166/Api/files_upd.zip",
     "URL_FORUM": "https://191.96.93.166/",
     "URL_CLIENT": "https://191.96.93.166/launcher.apk"
 }
